@@ -1,0 +1,109 @@
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.out
+*.pyc
+*.pyo
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# Ruby
+*.gem
+*.rbc
+*.rbo
+*.rbs
+.bundle/
+/vendor/
+
+# Swift
+.DS_Store
+build/
+*.xcodeproj/
+*.xcworkspace/
+
+# C/C++
+*.out
+*.o
+
+# Go
+*.exe
+*.dll
+*.so
+*.test
+*.prof
+
+# Rust
+target/
+
+# PHP
+*.log
+*.error
+*.log.*
+.htaccess
+
+# Julia
+*.jl
+
+# Kotlin
+*.kt
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# Dart
+/build/
+.packages
+
+# Compiled WebAssembly
+*.wasm
+
+# MATLAB
+*.mat
+*.mexa64
+*.mexmaci64
+*.mexw32
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Visual Studio Code directories
+.vscode/
