@@ -4,11 +4,21 @@ To make sure that most of the aspects of contributing to OpenSource are covered 
 1. A common file in which all contributors can contribute to. This is to make sure that contributors can collaborate on existing stuff when adding stuff.
 2. A personal user level folder in which contributors will only contribute themselves. This is to make sure that they can individually add stuff themselves.
 
-### Common file
-The common file to contribute to is the `CONTRIBUTORS.md` file in which you will add yourself among the contributors. Add yourself according to [this specification](https://allcontributors.org/docs/en/specification).
+### Contribution file
+The common file for contributions is the [index.html](./index.html) file. Please add yourself to the list of contributors in index.html as instructed below.
 
-### Personal directory
-In the root level of this repository there is a folder `src`, inside it you will create a folder with the same name as your github username and inside it can be anything that you like to commit to this repository. When adding files and folders make sure that the files and folders are small in size if possible, because this repository is just for practicing.
+```html
+...
+
+<div>
+  <a target="_blank" href="https://github.com/[YOUR_USERNAME]">
+    <img src="[YOUR_GITHUB_IMAGE]" />
+    <span>[YOUR_FULL_NAME]</span>
+  </a>
+</div>
+
+<!-- ADD YOUR CARD BEFORE THIS LINE -->
+```
 
 ### Before submitting
 Before submitting your code please do the following steps:
