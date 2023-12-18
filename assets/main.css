@@ -1,0 +1,70 @@
+html,
+body {
+  margin: 0;
+  background-color: #f9f9f9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  margin-top: 15px;
+  text-align: center;
+}
+
+header h1,
+header h2 {
+  font-weight: 400;
+}
+
+header h1 {
+  display: none;
+}
+
+header .playground-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  letter-spacing: 8px;
+  font-weight: 500;
+}
+
+header .playground-text img {
+  padding-right: 6px;
+  height: 30px;
+}
+
+.container {
+  padding: 16px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-container a {
+  text-decoration: none;
+  color: #222;
+
+  box-shadow: 0 1px 3px 0 rgba(100, 100, 100, 0.2),
+    0 1px 1px 0 rgba(100, 100, 100, 0.14),
+    0 2px 1px -1px rgba(100, 100, 100, 0.12);
+  border-radius: 4px;
+  padding: 15px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.card-container div {
+  display: block;
+}
+
+.card-container img {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.card-container span {
+  font-weight: 500;
+}

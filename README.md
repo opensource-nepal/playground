@@ -1,4 +1,4 @@
-# playground
+# PLAYGROUND
 A playground repository dedicated, but not limited, to OpenSource newcomers to practice OpenSource workflows and principles.
 
 ### Purpose of this repository
@@ -16,9 +16,3 @@ The steps to contribute to this repository is same as how you would contribute t
 5. Add, commit and push your changes to your branch. Make sure that the commit is as per the guide.
 6. Create a pull request from your branch in your forked repo to a target branch in the main repo. Detailed guide [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 7. Wait for your Pull Request to be reviewed by other contributors. If your Pull Requests has change request comments then, work on solving them and push the changes again.
-
-## Contributors
-
-*TODO: Add pictures and usernames of contributors instead of linking the `CONTRIBUTORS.md` file.*
-
-[Contributors](CONTRIBUTORS.md)
