@@ -19,6 +19,14 @@ header h1 {
   display: none;
 }
 
+header .logo {
+  height: auto;
+  max-height: 30px;
+  max-width: 100%;
+  margin-top: 15px;
+  padding: 0px 10px;
+}
+
 header .playground-text {
   display: flex;
   align-items: center;
